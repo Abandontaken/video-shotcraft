@@ -67,6 +67,17 @@
 </tr>
 <tr>
 <td align="center" valign="middle" width="25%">
+  <a href="https://www.openlux.ai/register?channel=c_n68puogw"><img src="./assets/readme/sponsors/openlux.png" width="168" alt="OpenLux 標誌"></a><br>
+  <a href="https://www.openlux.ai/register?channel=c_n68puogw"><b>OpenLux</b></a>
+</td>
+<td>
+  <p>感謝 OpenLux 贊助本專案！OpenLux 是面向企業的一站式 AI 平臺，匯集全球主要供應商的領先 AI 模型，提供快速、穩定的服務與即時的技術支援。Claude、OpenAI 和 Gemini 模型的基本價格分別低至官方定價的 8.82%、4% 和 8%。</p>
+  <p>video-shotcraft 使用者專屬優惠：透過我們的推薦連結註冊，儲值最高可享 7.5% 折扣！</p>
+  <p><a href="https://www.openlux.ai/register?channel=c_n68puogw">立即註冊 OpenLux →</a></p>
+</td>
+</tr>
+<tr>
+<td align="center" valign="middle" width="25%">
   <a href="https://aws.amazon.com/"><img src="./assets/readme/sponsors/aws.svg" width="200" alt="AWS 標誌"></a><br>
   <a href="https://aws.amazon.com/"><b>AWS</b></a>
 </td>
@@ -293,10 +304,10 @@ Video Shotcraft 的搜尋與下載 CLI 為獨立實現。
 
 ## 💬 微信群
 
-歡迎加入「Vincent 的 AI 交流群 4」，一起交流 AI 應用、程式開發和影片創作。
+歡迎加入「Vincent 的 AI 交流群 5」，一起交流 AI 應用、程式開發和影片創作。
 
-<a href="assets/wechat-group.jpg?v=4"><img src="assets/wechat-group.jpg?v=4" alt="Vincent 的 AI 交流群 4 微信入群 QR code" width="400"></a>
+<a href="assets/wechat-group.png?v=5"><img src="assets/wechat-group.png?v=5" alt="Vincent 的 AI 交流群 5 微信入群 QR code" width="400"></a>
 
 用微信掃碼加入。使用手機瀏覽時，可先儲存圖片，再在微信「掃一掃」中從相簿選取。
 
-此 QR code 在 **2026-11-28 前**有效，以微信提示為準。若已失效，可[透過 X 聯絡 Vincent](https://x.com/VincentWei93)取得最新入群方式。
+此 QR code 在 **2026-12-02 前**有效，以微信提示為準。若已失效，可[透過 X 聯絡 Vincent](https://x.com/VincentWei93)取得最新入群方式。
